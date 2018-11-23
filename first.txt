@@ -1,4 +1,10 @@
 practice on git.
-Add another line.
-One more addition.
-Ohohoho
+Learned:
+1. git add
+2. git commit
+3. git rm
+4. git push
+
+Learning:
+5: git status
+6: git log
